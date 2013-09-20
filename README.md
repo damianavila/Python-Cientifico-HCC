@@ -3,7 +3,7 @@ Python-Cientifico-HCC
 
 Python Cientifico HCC: Material para el curso de HCC.
 
-* [Slides](http://damianavila.github.io/Python-Cientifico-HCC)
+* [Slides](http://damianavila.github.io/Python-Cientifico-HCC?theme=sky)
 
 Pueden ver HTML estáticos de los ipynbs en los siguientes links (gracias al servicio [NBviewer](http://nbviewer.ipython.org/)):
 
